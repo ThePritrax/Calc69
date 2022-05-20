@@ -16,7 +16,7 @@ body{
 .container{
     width: 400px;
     background: #fff;
-    box-shadow: 0 40px 80px #383838;
+    box-shadow: 0 50px 100px #383838;
 }
 
 table{
