@@ -46,6 +46,14 @@ input{
     text-align: right;
 }
 
+div.sign{
+    font-size: small;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    margin-top: 100%;
+    margin-right: 85%;
+}
+
 .vari{
     background-color: rgb(70, 70, 70);
     color: #eee;
